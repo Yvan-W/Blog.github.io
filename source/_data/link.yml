@@ -1,0 +1,15 @@
+- class_name: 友情链接
+  class_desc: 一些值得收藏的网站哦
+  link_list:
+    - name: ArcticFox's Blog
+      link: https://www.arcticfox.top
+      avatar: https://www.arcticfox.top/avatar.jpg
+      descr: 热爱，所以行动；坚持，所以成功。
+    - name: Yvanの影视库
+      link: https://m.yvan.eu.org
+      avatar: https://github.moeyy.xyz/https://raw.githubusercontent.com/Yvan-W/Website/main/HuTao.ico
+      descr: Yvanの影视库
+    - name: Yvanの图床
+      link: https://img.yvan.eu.org
+      avatar: https://img.yvan.eu.org/mt/2024/07/14/6693e0a8d2dcd.ico
+      descr: 集君の所好 请多多投图 (API https://img.yvan.eu.org/api.php)
