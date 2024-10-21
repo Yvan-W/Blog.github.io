@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: https://img.yvan.eu.org/mt/2024/07/14/6693e0a8d2dcd.ico
+  logo: https://img.yvan.cn.eu.org/api/file/a87da657a345ca1d394ef.gif
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -44,11 +44,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://img.yvan.eu.org/mt/2024/07/14/6693e0a8d2dcd.ico
+favicon: https://img.yvan.cn.eu.org/api/file/a87da657a345ca1d394ef.gif
 
 # Avatar (頭像)
 avatar:
-  img: https://img.yvan.eu.org/mt/2024/07/14/6693e0b361f87.jpg
+  img: https://img.yvan.cn.eu.org/api/file/a87da657a345ca1d394ef.gif
   effect: false
 
 # Disable all banner image
