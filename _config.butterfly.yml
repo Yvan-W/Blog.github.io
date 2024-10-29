@@ -213,7 +213,7 @@ footer:
   owner:
     enable: true
     since: 2024
-  custom_text: 欢迎来到Yvanの<a href="https://www.yvan.eu.org/">小破站</a>! <a href="https://icp.gov.moe/?keyword=20249800" target="_blank">萌ICP备20249800号</a>
+  custom_text: 欢迎来到Yvanの<a href="https://www.yvan.us.kg/">小破站</a>! <a href="https://icp.gov.moe/?keyword=20249800" target="_blank">萌ICP备20249800号</a>
   copyright: true # Copyright of theme and framework
 
 # aside (側邊欄)
