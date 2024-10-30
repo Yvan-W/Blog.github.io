@@ -7,7 +7,7 @@ category:
 tags:
     - 免费域名
     - eu.org
-cover: https://img.yvan.eu.org/mt/2024/07/25/66a21de025b73.jpg
+cover: https://proxy-cty.pages.dev/https://raw.githubusercontent.com/Yvan-W/Website/main/blog/%E6%A8%AA%E5%B9%85-%E6%B4%9B%E5%A4%A9%E4%BE%9D.jpg
 comments: true
 ---
 
