@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: https://img.yvan.cn.eu.org/api/file/a87da657a345ca1d394ef.gif
+  logo: https://proxy-cty.pages.dev/https://raw.githubusercontent.com/Yvan-W/Website/main/blog/lty2022%20(10).ico
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -44,7 +44,7 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://img.yvan.cn.eu.org/api/file/a87da657a345ca1d394ef.gif
+favicon: https://proxy-cty.pages.dev/https://raw.githubusercontent.com/Yvan-W/Website/main/blog/lty2022%20(10).ico
 
 # Avatar (頭像)
 avatar:
