@@ -55,17 +55,17 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://img.yvan.eu.org/mt/2024/07/07/668a60c43414f.jpg
+index_img: https://proxy-cty.pages.dev/https://raw.githubusercontent.com/Yvan-W/Website/main/blog/background.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://img.yvan.eu.org/mt/2024/07/07/668a60c43414f.jpg
+default_top_img: https://proxy-cty.pages.dev/https://raw.githubusercontent.com/Yvan-W/Website/main/blog/background.jpg
 
 # The banner image of archive page
-archive_img: https://img.yvan.eu.org/mt/2024/07/07/668a60c43414f.jpg
+archive_img: https://proxy-cty.pages.dev/https://raw.githubusercontent.com/Yvan-W/Website/main/blog/background.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://img.yvan.eu.org/mt/2024/07/07/668a60c43414f.jpg
+tag_img: https://proxy-cty.pages.dev/https://raw.githubusercontent.com/Yvan-W/Website/main/blog/background.jpg
 
 # The banner image of tag page
 # format:
