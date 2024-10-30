@@ -7,7 +7,7 @@ category:
 tags:
     - Ubuntu_Server
     - Linux 系统
-cover: https://img.yvan.eu.org/mt/2024/07/14/6693e0ac959b5.jpg
+cover: https://proxy-cty.pages.dev/https://raw.githubusercontent.com/Yvan-W/Website/main/Background/Light/light-10.jpg
 comments: true
 ---
 
